@@ -1,0 +1,13 @@
+{
+  "name": "כתר ואבן",
+  "short_name": "כתר ואבן",
+  "description": "בנו טירות, הקימו צבא וכבשו את הממלכה",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#15110c",
+  "theme_color": "#15110c",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
